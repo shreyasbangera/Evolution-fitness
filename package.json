@@ -2,7 +2,7 @@
   "name": "evolution-fitnes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://shreyasbangera.github.io/evolutionfitness",
+  "homepage": "./",
   "dependencies": {
     "-": "^0.0.1",
     "@emotion/react": "^11.10.4",
