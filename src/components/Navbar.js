@@ -1,7 +1,7 @@
 import React from 'react'
-import { Link } from 'react-router-dom'
-import { AppBar } from "@material-ui/core";
-import { Stack } from "@mui/material"
+import { Link } from 'react-router-dom';
+import { AppBar } from "@mui/material";
+import { Stack } from "@mui/material";
 import Logo from '../assets/images/Logo.png';
 
 const Navbar = () => {
