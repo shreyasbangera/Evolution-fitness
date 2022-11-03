@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/evolutionfitness/static/css/main.d7d799d2.css",
+    "main.js": "/evolutionfitness/static/js/main.287b6400.js",
+    "static/media/banner.png": "/evolutionfitness/static/media/banner.5e4569e56889577ddb8b.png",
+    "static/media/Logo.png": "/evolutionfitness/static/media/Logo.59ff992318b0bb1ba298.png",
+    "index.html": "/evolutionfitness/index.html",
+    "main.d7d799d2.css.map": "/evolutionfitness/static/css/main.d7d799d2.css.map",
+    "main.287b6400.js.map": "/evolutionfitness/static/js/main.287b6400.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7d799d2.css",
+    "static/js/main.287b6400.js"
+  ]
+}
