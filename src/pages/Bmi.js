@@ -1,5 +1,5 @@
 import React,{ useState} from 'react'
-import { Box, Stack, Typography, Button} from '@mui/material';
+import { Box, Stack, Typography } from '@mui/material';
 
 const Bmi = () => {
   const[ weight, setWeight ] = useState(0);
@@ -44,7 +44,7 @@ const Bmi = () => {
     <Stack className='container'>
     <Typography className='center'>
     <h3>Your BMI is: {bmi} </h3>
-    <p>{message}</p>
+    {message}
     </Typography>
     </Stack>
     </form>
